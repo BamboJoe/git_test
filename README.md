@@ -1,0 +1,1 @@
+This is Bambo's first git project!
